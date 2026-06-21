@@ -7,5 +7,8 @@ Este proyecto es la resolución de la Guía de Prácticas #01 para la asignatura
 - Programación Orientada a Objetos (Clases y Objetos).
 - Vectores (listas de Python).
 
-## Autor
-Leonardo Benjamin Córdova Jaramillo
+## Autores
+- Leonardo Benjamin Córdova Jaramillo
+- Mayra Del Rocio Carrion Rodriguez
+- Jefferson Jasmani Galeas Salazar
+- Jeremy Xavier Guevara Barrera
